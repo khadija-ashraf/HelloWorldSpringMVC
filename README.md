@@ -78,7 +78,8 @@ Push the changes in your local repository to GitHub.
 $ git push origin master
 # Pushes the changes in your local repository up to the remote repository you specified as the origin
 ```
-
+--------------------
 Refs:
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/ 
+
 http://rogerdudler.github.io/git-guide/
