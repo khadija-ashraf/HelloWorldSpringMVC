@@ -10,7 +10,7 @@ This tutorial will make you acquaintance to Git commands for managing a remote r
 
 Create a new repository on GitHub. To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub. 
 
-Otherwise, if you have already created the repository with  README, license, or gitignore files then you just have to make a “git pull <remote> <branch>” before pushing your all files.
+Otherwise, if you have already created the repository with  README, license, or gitignore files then you just have to make a “git pull \<remote\> \<branch\>” before pushing your all files.
 [i.e., git pull https://github.com/khadija-ashraf/HelloWorldSpringMVC.git  master] 
 
 ##### Step 2:
