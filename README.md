@@ -4,7 +4,7 @@ This tutorial will make you acquaintance to Git commands for managing a remote r
 
 
 ### 1. Tutorial 1
-#### 2. Adding an existing project to GitHub using the command line
+####  1.1. Adding an existing project to GitHub using the command line
 
 ##### Step 1: 
 
